@@ -1,0 +1,138 @@
+# -*- coding: UTF-8 -*-
+'''
+@Project -> File   ：pyCode -> areaConfig
+@Author ：ToualeCula
+@Email ：1367642349@qq.com
+@Date ：2021/8/23 21:26
+@Desc ：
+'''
+
+areaData = [{
+    "areaName": "浙江",
+    "count": 0,
+    "nodeId": "032000000浙江省"
+}, {
+    "areaName": "河南",
+    "count": 0,
+    "nodeId": "013000000河南省"
+}, {
+    "areaName": "山东",
+    "count": 0,
+    "nodeId": "023000000山东省"
+}, {
+    "areaName": "江苏",
+    "count": 0,
+    "nodeId": "017000000江苏省"
+}, {
+    "areaName": "广东",
+    "count": 0,
+    "nodeId": "007000000广东省"
+}, {
+    "areaName": "四川",
+    "count": 0,
+    "nodeId": "027000000四川省"
+}, {
+    "areaName": "湖南",
+    "count": 0,
+    "nodeId": "015000000湖南省"
+}, {
+    "areaName": "安徽",
+    "count": 0,
+    "nodeId": "002000000安徽省"
+}, {
+    "areaName": "河北",
+    "count": 0,
+    "nodeId": "011000000河北省"
+}, {
+    "areaName": "上海",
+    "count": 0,
+    "nodeId": "024000000上海市"
+}, {
+    "areaName": "福建",
+    "count": 0,
+    "nodeId": "005000000福建省"
+}, {
+    "areaName": "湖北",
+    "count": 0,
+    "nodeId": "014000000湖北省"
+}, {
+    "areaName": "辽宁",
+    "count": 0,
+    "nodeId": "020000000辽宁省"
+}, {
+    "areaName": "陕西",
+    "count": 0,
+    "nodeId": "026000000陕西省"
+}, {
+    "areaName": "重庆",
+    "count": 0,
+    "nodeId": "004000000重庆市"
+}, {
+    "areaName": "吉林",
+    "count": 0,
+    "nodeId": "019000000吉林省"
+}, {
+    "areaName": "北京",
+    "count": 0,
+    "nodeId": "003000000北京市"
+}, {
+    "areaName": "黑龙江",
+    "count": 0,
+    "nodeId": "012000000黑龙江省"
+}, {
+    "areaName": "云南",
+    "count": 0,
+    "nodeId": "031000000云南省"
+}, {
+    "areaName": "内蒙古",
+    "count": 0,
+    "nodeId": "016000000内蒙古自治区"
+}, {
+    "areaName": "广西",
+    "count": 0,
+    "nodeId": "008000000广西壮族自治区"
+}, {
+    "areaName": "江西",
+    "count": 0,
+    "nodeId": "018000000江西省"
+}, {
+    "areaName": "山西",
+    "count": 0,
+    "nodeId": "025000000山西省"
+}, {
+    "areaName": "甘肃",
+    "count": 0,
+    "nodeId": "006000000甘肃省"
+}, {
+    "areaName": "天津",
+    "count": 0,
+    "nodeId": "028000000天津市"
+}, {
+    "areaName": "贵州",
+    "count": 0,
+    "nodeId": "009000000贵州省"
+}, {
+    "areaName": "新疆",
+    "count": 0,
+    "nodeId": "030000000新疆维吾尔自治区"
+}, {
+    "areaName": "宁夏",
+    "count": 0,
+    "nodeId": "021000000宁夏回族自治区"
+}, {
+    "areaName": "青海",
+    "count": 0,
+    "nodeId": "022000000青海省"
+}, {
+    "areaName": "海南",
+    "count": 0,
+    "nodeId": "010000000海南省"
+}, {
+    "areaName": "最高院",
+    "count": 0,
+    "nodeId": "001000000最高人民法院"
+}, {
+    "areaName": "西藏",
+    "count": 0,
+    "nodeId": "029000000西藏自治区"
+}]
